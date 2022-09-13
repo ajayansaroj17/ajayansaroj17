@@ -12,7 +12,7 @@ I have worked on imaging and computer vision projects that involve classificatio
 </br>
 
 <br>
-Moreover, I'm also a Teaching assistant at IIT- Roorkee (Machine Learning). I have worked on Generative Adverserial Networks (GANs) under guidance of Dr.GN Pillai (HOD - Electrical Engineering, Joint Faculty Mehta Family School). 
+Moreover, I'm also a Teaching assistant at IIT- Roorkee (Machine Learning). I am working on Generative Adverserial Networks (GANs) under guidance of Dr.GN Pillai (HOD - Electrical Engineering, Joint Faculty Mehta Family School). 
 </br>
 <br></br>
 My Interests are:
