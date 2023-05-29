@@ -18,7 +18,7 @@ Moreover, I'm also a Teaching assistant at IIT- Roorkee (Machine Learning). I am
 My Interests are:
 <br></br>
 <b>
-"Machine Learning, Deep Learning, Computer Vision, Statistical analysis, AI based VLSI design."
+"Machine Learning, Deep Learning, Computer Vision, Statistical analysis"
   </b>
 </br>
 <br>
